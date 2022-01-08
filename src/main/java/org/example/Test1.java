@@ -20,5 +20,6 @@ public class Test1 {
         System.out.println("master test4");
         System.out.println("git hotfix test4");
         System.out.println("git push test4");
+        System.out.println("git pull test4");
     }
 }
