@@ -11,5 +11,8 @@ public class Test1 {
         thread.setDaemon(true);
         thread.start();
         System.out.println(Thread.currentThread().getName()+"over");
+        System.out.println("git test2");
+        System.out.println("git test2");
+        System.out.println("git test2");
     }
 }
